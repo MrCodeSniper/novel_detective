@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <ImageView
+        android:paddingBottom="15dp"
+        android:id="@+id/iv_icon"
+        android:layout_alignParentLeft="true"
+        android:paddingLeft="15dp"
+        android:layout_centerHorizontal="true"
+        android:paddingTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_menu_camera"/>
+
+
+    <TextView
+        android:layout_marginLeft="70dp"
+       android:id="@+id/tv_details"
+        android:paddingTop="20dp"
+        android:textSize="18sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="书库"/>
+
+
+
+
+
+
+</RelativeLayout>

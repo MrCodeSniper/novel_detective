@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\novel_detective\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\novel_detective\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_homepage.png",
+        "source": "C:\\novel_detective\\app\\src\\main\\res\\drawable\\ic_homepage.png"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_bookshelf.png",
+        "source": "C:\\novel_detective\\app\\src\\main\\res\\drawable\\ic_bookshelf.png"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\novel_detective\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\novel_detective\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_scan.png",
+        "source": "C:\\novel_detective\\app\\src\\main\\res\\drawable\\ic_scan.png"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_share.png",
+        "source": "C:\\novel_detective\\app\\src\\main\\res\\drawable\\ic_share.png"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pic1.jpg",
+        "source": "C:\\novel_detective\\app\\src\\main\\res\\drawable\\pic1.jpg"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\novel_detective\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_message.png",
+        "source": "C:\\novel_detective\\app\\src\\main\\res\\drawable\\ic_message.png"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_search.png",
+        "source": "C:\\novel_detective\\app\\src\\main\\res\\drawable\\ic_search.png"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\novel_detective\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\novel_detective\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\novel_detective\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_cloud.png",
+        "source": "C:\\novel_detective\\app\\src\\main\\res\\drawable\\ic_cloud.png"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\novel_detective\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\novel_detective\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\novel_detective\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_good.png",
+        "source": "C:\\novel_detective\\app\\src\\main\\res\\drawable\\ic_good.png"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\novel_detective\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\novel_detective\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_book.png",
+        "source": "C:\\novel_detective\\app\\src\\main\\res\\drawable\\ic_book.png"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_me.jpg",
+        "source": "C:\\novel_detective\\app\\src\\main\\res\\drawable\\ic_me.jpg"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\novel_detective\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\novel_detective\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\novel_detective\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_neighbor.png",
+        "source": "C:\\novel_detective\\app\\src\\main\\res\\drawable\\ic_neighbor.png"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_share.jpg",
+        "source": "C:\\novel_detective\\app\\src\\main\\res\\drawable\\ic_share.jpg"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\novel_detective\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\novel_detective\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\word_background.png",
+        "source": "C:\\novel_detective\\app\\src\\main\\res\\drawable\\word_background.png"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\novel_detective\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\novel_detective\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\novel_detective\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\novel_detective\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_rank.png",
+        "source": "C:\\novel_detective\\app\\src\\main\\res\\drawable\\ic_rank.png"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\novel_detective\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mail.png",
+        "source": "C:\\novel_detective\\app\\src\\main\\res\\drawable\\ic_mail.png"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\novel_detective\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_bendi.png",
+        "source": "C:\\novel_detective\\app\\src\\main\\res\\drawable\\ic_bendi.png"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zhuishushentan.png",
+        "source": "C:\\novel_detective\\app\\src\\main\\res\\drawable\\zhuishushentan.png"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_searchsd.png",
+        "source": "C:\\novel_detective\\app\\src\\main\\res\\drawable\\ic_searchsd.png"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_left.png",
+        "source": "C:\\novel_detective\\app\\src\\main\\res\\drawable\\ic_left.png"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_setting.jpg",
+        "source": "C:\\novel_detective\\app\\src\\main\\res\\drawable\\ic_setting.jpg"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\novel_detective\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\novel_detective\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_txt.png",
+        "source": "C:\\novel_detective\\app\\src\\main\\res\\drawable\\ic_txt.png"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\novel_detective\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    }
+]

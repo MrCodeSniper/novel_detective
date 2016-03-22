@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\raw\\book.txt",
+        "source": "C:\\novel_detective\\app\\src\\main\\res\\raw\\book.txt"
+    },
+    {
+        "merged": "C:\\novel_detective\\app\\build\\intermediates\\res\\merged\\debug\\raw\\pic.jpg",
+        "source": "C:\\novel_detective\\app\\src\\main\\res\\raw\\pic.jpg"
+    }
+]
